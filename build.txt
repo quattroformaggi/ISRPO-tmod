@@ -1,0 +1,3 @@
+displayName = Examination project
+author = daemonmilos
+version = 12.05
